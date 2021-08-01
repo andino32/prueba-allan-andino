@@ -7,32 +7,39 @@ body{
 #linea{
 	 width: 100%;
 	 height: 5px;
-	 background: #FFD700;
+	 background: #F4A460;
 }
 
 #encabezado{
 	 width: auto;
-	 height: 133px;
+	 height: 190px;
 	 border: 0px solid;
-	 background: #20B2AA;
+	 background: #7FFFD4;
 }
 
 #centro{
 	 width: 100%;
 	 overflow: hidden;
-	 background:#FFCC99;
-	 height: 100vh;
+	 background:#FF6633;
+	 height: 90vh;
 }
 
 #mapa{
 	 overflow: hidden;
-	 background:#99FFFF;
+	 background:#3399CC;
 }
 
 #formulario{
 	 overflow: hidden;
-	 background:#339966;
-	 height: 100vh;
+	 background:#FF9900;
+	 height: 150vh;
+
+}
+
+#formularioII{
+     overflow: hidden;
+	 background:#FF0000;
+	 height: 250vh;
 }
 
 #encabezado #logo {
